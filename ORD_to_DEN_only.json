@@ -1,0 +1,405 @@
+[
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 14:50Z",
+                "local": "2025-07-24 09:50-05:00"
+            },
+            "terminal": "3",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 17:31Z",
+                "local": "2025-07-24 11:31-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "AA 2363",
+        "status": "Unknown",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 15:44Z",
+                "local": "2025-07-24 10:44-05:00"
+            },
+            "revisedTime": {
+                "utc": "2025-07-24 15:44Z",
+                "local": "2025-07-24 10:44-05:00"
+            },
+            "terminal": "1",
+            "quality": [
+                "Basic",
+                "Live"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 18:32Z",
+                "local": "2025-07-24 12:32-06:00"
+            },
+            "revisedTime": {
+                "utc": "2025-07-24 17:45Z",
+                "local": "2025-07-24 11:45-06:00"
+            },
+            "quality": [
+                "Basic",
+                "Live"
+            ]
+        },
+        "number": "UA 1803",
+        "callSign": "UAL1803",
+        "status": "Expected",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+            "reg": "N24519",
+            "modeS": "A2452F",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 16:49Z",
+                "local": "2025-07-24 11:49-05:00"
+            },
+            "terminal": "3",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 19:29Z",
+                "local": "2025-07-24 13:29-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "AA 699",
+        "status": "Unknown",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 17:40Z",
+                "local": "2025-07-24 12:40-05:00"
+            },
+            "terminal": "5",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 20:20Z",
+                "local": "2025-07-24 14:20-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "WN 1859",
+        "status": "Unknown",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 18:04Z",
+                "local": "2025-07-24 13:04-05:00"
+            },
+            "terminal": "1",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 20:46Z",
+                "local": "2025-07-24 14:46-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "UA 622",
+        "status": "Unknown",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 19:35Z",
+                "local": "2025-07-24 14:35-05:00"
+            },
+            "terminal": "1",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 22:27Z",
+                "local": "2025-07-24 16:27-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "UA 503",
+        "status": "Expected",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 757-300"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 20:04Z",
+                "local": "2025-07-24 15:04-05:00"
+            },
+            "terminal": "3",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-24 22:42Z",
+                "local": "2025-07-24 16:42-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "AA 1160",
+        "status": "Expected",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 21:20Z",
+                "local": "2025-07-24 16:20-05:00"
+            },
+            "terminal": "1",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-25 00:12Z",
+                "local": "2025-07-24 18:12-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "UA 1801",
+        "status": "Expected",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 757-300"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 23:35Z",
+                "local": "2025-07-24 18:35-05:00"
+            },
+            "terminal": "1",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-25 02:36Z",
+                "local": "2025-07-24 20:36-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "UA 767",
+        "status": "Expected",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 757-300"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "departure": {
+            "scheduledTime": {
+                "utc": "2025-07-24 23:55Z",
+                "local": "2025-07-24 18:55-05:00"
+            },
+            "terminal": "5",
+            "quality": [
+                "Basic"
+            ]
+        },
+        "arrival": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2025-07-25 02:55Z",
+                "local": "2025-07-24 20:55-06:00"
+            },
+            "quality": [
+                "Basic"
+            ]
+        },
+        "number": "WN 3741",
+        "status": "Expected",
+        "codeshareStatus": "Unknown",
+        "isCargo": false,
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    }
+]
